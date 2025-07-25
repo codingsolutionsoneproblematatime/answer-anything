@@ -1,4 +1,4 @@
-# Answer Anything — Real-Time Screen Explainer
+# Answer Anything - Real-Time Screen Explainer
 
 Answer Anything is a lightweight, real-time desktop assistant that lets you highlight anything on your screen: code, graphs, documents, or UI, and get **instant, AI-powered explanations** using OpenAI’s GPT-4o Vision model.
 
