@@ -43,7 +43,6 @@ python -m venv venv
 venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 ```
-🧪 Requires Python 3.11+
 
 ### 3. Add Your OpenAI API Key
 Create a .env file in the root directory with:
