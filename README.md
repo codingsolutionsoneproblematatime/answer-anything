@@ -1,4 +1,4 @@
-# 🧠 Answer Anything — Real-Time Screen Explainer
+# Answer Anything — Real-Time Screen Explainer
 
 **Answer Anything** is a lightweight, real-time desktop assistant that lets you **highlight anything on your screen** — code, graphs, documents, or UI — and get **instant, AI-powered explanations** using OpenAI’s GPT-4o Vision model.
 
@@ -6,13 +6,13 @@ No copy/paste. No switching tabs. Just **drag, ask, and get answers.**
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔲 **Drag-to-select screen region**
-- 💡 **Custom prompts** ("Explain this", "Summarize this", "What is this?")
-- ⚡ **GPT-4o Vision** multimodal AI (image + text input)
-- 🖥️ **Minimal overlay UI** — works over any application
-- 🧠 Perfect for:
+- **Drag-to-select screen region**
+- **Custom prompts** ("Explain this", "Summarize this", "What is this?")
+- **GPT-4o Vision** multimodal AI (image + text input)
+- **Minimal overlay UI** — works over any application
+- Perfect for:
   - Developers reading unfamiliar code
   - Analysts working with complex dashboards
   - Students studying problems, diagrams, or text
@@ -20,13 +20,13 @@ No copy/paste. No switching tabs. Just **drag, ask, and get answers.**
 
 ---
 
-## 📸 Demo
+## Demo
 
 ![Demo Screenshot](./demo_screenshot.png) <!-- Replace with your own screenshot or GIF -->
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repo
 
@@ -77,7 +77,7 @@ Esc → to quit the background listener
 
 “What is this math problem asking?”
 
-🧠 Why I Built This
+Why I Built This
 Answer Anything is designed to bring the power of GPT-4o’s vision model directly to your screen — turning your desktop into an interactive, explorable space. It’s like adding an “Explain This” button to your operating system. My goal was to create a tool that enhances curiosity, speeds up understanding, and eliminates context-switching.
 
 🛠️ Tech Stack
@@ -93,10 +93,10 @@ keyboard — hotkey listener
 
 dotenv — environment variable support
 
-⚠️ Responsible Use
+Responsible Use
 This project is meant to support learning, productivity, and accessibility. It is not intended for use during exams, proctored tests, or in violation of any integrity policies. Use responsibly.
 
-🪄 Possible Extensions
+Possible Extensions
 Session memory for follow-up questions
 
 Auto-copy results to clipboard
