@@ -31,21 +31,14 @@ git clone https://github.com/yourusername/answer-anything.git
 cd answer-anything
 ```
 
-### 2. Set Up the Environment
-```bash
-python -m venv venv
-venv\Scripts\activate      # On Windows
-pip install -r requirements.txt
-```
-
-### 3. Add Your OpenAI API Key
+### 2. Add Your OpenAI API Key
 Create a .env file in the root directory with:
 
 ```ini
 OPENAI_API_KEY=sk-...
 ```
 
-### 4. Run It
+### 3. Run It
 ```bash
 python real-time-screen-explainer.py
 ```
@@ -70,7 +63,7 @@ Esc → to quit the background listener
 Answer Anything is designed to bring the power of GPT-4o’s vision model directly to your screen — turning your desktop into an interactive, explorable space. It’s like adding an “Explain This” button to your operating system. My goal was to create a tool that enhances curiosity, speeds up understanding, and eliminates context-switching.
 
 ### Tech Stack
-Python 3.11
+Python
 
 tkinter — GUI overlay + prompt input
 
