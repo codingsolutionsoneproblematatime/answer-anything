@@ -4,6 +4,9 @@ Answer Anything is a lightweight, real-time desktop assistant that lets you high
 
 No copy/paste. No switching tabs. No switching applications. Just **drag, ask, and get answers.**
 
+<img width="457" height="549" alt="image" src="https://github.com/user-attachments/assets/7232bdaf-69bd-4115-b832-402248627b76" />
+
+
 ---
 
 ## Features
