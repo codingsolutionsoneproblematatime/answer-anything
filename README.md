@@ -8,10 +8,10 @@ No copy/paste. No switching tabs. No switching applications. Just **drag, ask, a
 
 ## Features
 
-- **Drag-to-select screen region**
-- **Custom prompts** ("Explain this", "Summarize this", "What is this?")
-- **GPT-4o Vision** multimodal AI (image + text input)
-- **Minimal overlay UI** — works over any application
+- Drag-to-select screen region
+- Custom prompts ("Explain this", "Summarize this", "What is this?")
+- GPT-4o Vision multimodal AI (image + text input)
+- Minimal overlay UI — works over any application
 - Perfect for:
   - Developers reading unfamiliar code
   - Analysts working with complex dashboards
@@ -22,7 +22,7 @@ No copy/paste. No switching tabs. No switching applications. Just **drag, ask, a
 
 ## Demo
 
-![Demo Screenshot](./demo_screenshot.png) <!-- Replace with your own screenshot or GIF -->
+![Demo Screenshot](./demo_screenshot.png)
 
 ---
 
@@ -79,7 +79,7 @@ Esc → to quit the background listener
 Why I Built This
 Answer Anything is designed to bring the power of GPT-4o’s vision model directly to your screen — turning your desktop into an interactive, explorable space. It’s like adding an “Explain This” button to your operating system. My goal was to create a tool that enhances curiosity, speeds up understanding, and eliminates context-switching.
 
-🛠️ Tech Stack
+Tech Stack
 Python 3.11
 
 tkinter — GUI overlay + prompt input
