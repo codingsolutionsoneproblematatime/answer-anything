@@ -33,8 +33,6 @@ cd answer-anything
 
 ### 2. Set Up the Environment
 ```bash
-Copy
-Edit
 python -m venv venv
 venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
@@ -44,15 +42,11 @@ pip install -r requirements.txt
 Create a .env file in the root directory with:
 
 ```ini
-Copy
-Edit
 OPENAI_API_KEY=sk-...
 ```
 
 ### 4. Run It
 ```bash
-Copy
-Edit
 python real-time-screen-explainer.py
 ```
 Then use:
