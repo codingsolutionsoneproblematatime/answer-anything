@@ -6,7 +6,6 @@ No copy/paste. No switching tabs. No switching applications. Just **drag, ask, a
 
 <img width="457" height="549" alt="image" src="https://github.com/user-attachments/assets/7232bdaf-69bd-4115-b832-402248627b76" />
 
-
 ---
 
 ## Features
@@ -20,12 +19,6 @@ No copy/paste. No switching tabs. No switching applications. Just **drag, ask, a
   - Analysts working with complex dashboards
   - Students studying problems, diagrams, or text
   - Anyone encountering confusing content on screen
-
----
-
-## Demo
-
-![Demo Screenshot](./demo_screenshot.png)
 
 ---
 
@@ -68,7 +61,7 @@ Ctrl+Shift+E → to activate the region selector
 
 Esc → to quit the background listener
 
-💬 Example Prompts
+### Example Prompts
 “What does this Python code do?”
 
 “Summarize this chart.”
@@ -79,10 +72,10 @@ Esc → to quit the background listener
 
 “What is this math problem asking?”
 
-Why I Built This
+### Why I Built This
 Answer Anything is designed to bring the power of GPT-4o’s vision model directly to your screen — turning your desktop into an interactive, explorable space. It’s like adding an “Explain This” button to your operating system. My goal was to create a tool that enhances curiosity, speeds up understanding, and eliminates context-switching.
 
-Tech Stack
+### Tech Stack
 Python 3.11
 
 tkinter — GUI overlay + prompt input
@@ -95,10 +88,10 @@ keyboard — hotkey listener
 
 dotenv — environment variable support
 
-Responsible Use
+### Responsible Use
 This project is meant to support learning, productivity, and accessibility. It is not intended for use during exams, proctored tests, or in violation of any integrity policies. Use responsibly.
 
-Possible Extensions
+### Possible Extensions
 Session memory for follow-up questions
 
 Auto-copy results to clipboard
